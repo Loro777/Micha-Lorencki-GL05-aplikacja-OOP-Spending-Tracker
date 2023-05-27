@@ -1,0 +1,1 @@
+# Michał Lorencki GL05 aplikacja OOP Spending Tracker
